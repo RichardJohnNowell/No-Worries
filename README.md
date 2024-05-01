@@ -4,10 +4,7 @@ Our name No Worries comes from the business concept that we we will turn up with
 
 All images are clickable and expand for closer inspection.
 
-<br>
-<p>
-From the top: Phonic PowerPod 615 and TOA monitors.
-</p>
+Main amplifier Phonic PowerPod 615 and TOA monitors.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true"
