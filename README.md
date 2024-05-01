@@ -13,7 +13,7 @@ Our name No Worries comes from the business concept that we we will turn up with
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true"
-         width="350" height="128" title="No Worries Full Stack" id="No Worries Full Stack" alt="No Worries Full Stack">
+         width="350" height="194" title="No Worries Full Stack" id="No Worries Full Stack" alt="No Worries Full Stack">
     </a>
 </div>
 <br>
