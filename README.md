@@ -66,14 +66,7 @@ Our name No Worries comes from the business concept that we we will turn up with
     </a>
 </div>
 <br>
-<div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-back_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-back_orig.jpg?raw=true"
-         width="350" height="448" title="No Worries Toa Back" id="No Worries Toa Back" alt="No Worries Toa Back">
-    </a>
-</div>
-<br>
 <p>
-    "The End"
+    The End
 </p>
 <br>
