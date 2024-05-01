@@ -44,7 +44,7 @@ All images are clickable and expand for closer inspection.
     </a>
 </div>
 <br>
-Powerpod 615 top right.
+<p align="center">Powerpod 615 top right.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-right_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-right_orig.jpg?raw=true"
@@ -52,7 +52,7 @@ Powerpod 615 top right.
     </a>
 </div>
 <br>
-Soundcraft inputs and outputs.
+<p align="center">Soundcraft FX16 inputs and outputs.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw"
@@ -60,7 +60,7 @@ Soundcraft inputs and outputs.
     </a>
 </div>
 <br>
-Powerpod 615 back.
+<p align="center">Powerpod 615 back.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-back_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-back_orig.jpg?raw=true"
