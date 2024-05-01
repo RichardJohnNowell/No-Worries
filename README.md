@@ -12,6 +12,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Amplifier Powerpod 615 front view.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true"
@@ -19,6 +20,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Soundcraft Spirit FX16 mixer.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front-2_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front-2_orig.jpg?raw=true"
@@ -26,6 +28,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Powerpod 615 top left eq.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-left_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-left_orig.jpg?raw=true"
@@ -33,6 +36,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Powerpod 615 inputs.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-inputs_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-inputs_orig.jpg?raw=true"
@@ -40,6 +44,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Powerpod 615 top right.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-right_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-right_orig.jpg?raw=true"
@@ -47,6 +52,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Soundcraft inputs and outputs.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw"
@@ -54,6 +60,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+Powerpod 615 back.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-back_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-back_orig.jpg?raw=true"
@@ -61,6 +68,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
+TOA monitor front.
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-front_orig.jpg?raw=true"
