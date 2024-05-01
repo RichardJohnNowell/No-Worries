@@ -4,7 +4,7 @@ Our name No Worries comes from the business concept that we we will turn up with
 
 All images are clickable and expand for closer inspection.
 
-<p align="center">Main amplifier Phonic PowerPod 615 and TOA monitors.</p>
+<p align="center">Main amplifier Phonic PowerPod 615 and TOA SL-112 monitors.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true"
@@ -12,7 +12,7 @@ All images are clickable and expand for closer inspection.
     </a>
 </div>
 <br>
-<p align="center">Amplifier Powerpod 615 front view.</p>
+<p align="center">Powerpod 615 front view.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true"
@@ -68,7 +68,7 @@ All images are clickable and expand for closer inspection.
     </a>
 </div>
 <br>
-TOA monitor front.
+<p align="center">TOA SL-122 front.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/toa-front_orig.jpg?raw=true"
