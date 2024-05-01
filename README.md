@@ -46,13 +46,6 @@ Our name No Worries comes from the business concept that we we will turn up with
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-eq_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-eq_orig.jpg?raw=true"
-         width="350" height="196" title="No Worries Desk EQ" id="No Worries Desk EQ" alt="No Worries Desk EQ">
-    </a>
-</div>
-<br>
-<div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-back_orig.jpg?raw"
          width="350" height="152" title="No Worries Mixer Inputs" id="No Worries Mixer Inputs" alt="No Worries Mixer Inputs">
