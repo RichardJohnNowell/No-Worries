@@ -4,7 +4,7 @@ Our name No Worries comes from the business concept that we we will turn up with
 
 All images are clickable and expand for closer inspection.
 
-Main amplifier Phonic PowerPod 615 and TOA monitors.
+<p align="center">Main amplifier Phonic PowerPod 615 and TOA monitors.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/full-stack_orig.jpg?raw=true"
@@ -12,7 +12,7 @@ Main amplifier Phonic PowerPod 615 and TOA monitors.
     </a>
 </div>
 <br>
-Amplifier Powerpod 615 front view.
+<p align="center">Amplifier Powerpod 615 front view.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front_orig.jpg?raw=true"
@@ -20,7 +20,7 @@ Amplifier Powerpod 615 front view.
     </a>
 </div>
 <br>
-Soundcraft Spirit FX16 mixer.
+<p align="center">Soundcraft Spirit FX16 mixer.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front-2_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front-2_orig.jpg?raw=true"
@@ -28,7 +28,7 @@ Soundcraft Spirit FX16 mixer.
     </a>
 </div>
 <br>
-Powerpod 615 top left eq.
+<p align="center">Powerpod 615 front left.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-left_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-left_orig.jpg?raw=true"
@@ -36,7 +36,7 @@ Powerpod 615 top left eq.
     </a>
 </div>
 <br>
-Powerpod 615 inputs.
+<p align="center">Powerpod 615 inputs.</p>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-inputs_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-inputs_orig.jpg?raw=true"
