@@ -17,12 +17,6 @@ Our name No Worries comes from the business concept that we we will turn up with
     </a>
 </div>
 <br>
-<div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/soundcraft-front_orig.jpg?raw=true"
-         width="350" height="168" title="No Worries Desk Front" id="No Worries Desk Front" alt="No Worries Desk Front">
-    </a>
-</div>
 <br>
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/phonic-front-left_orig.jpg?raw=true">
