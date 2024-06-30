@@ -2,8 +2,8 @@
 /*-------------------------------------------------------start */
 
 body {
-    background-color: #354251;
-    color: #dabe76;
+    background-color: #2f5775;
+    color: #f1e696;
     font-family: Poppins, serif;
     font-size: 1.3rem;
   }
@@ -52,5 +52,19 @@ nav a {
     color: #0b48ff;
     letter-spacing: 1px;
     font-weight: 600;
+  }
+
+/*----------------------------------------------------flexibles */
+
+.flex-container {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  .flex-container > div {
+    margin: 0.4rem;
+    padding: 1.2rem;
   }
   
