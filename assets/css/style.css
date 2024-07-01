@@ -135,6 +135,20 @@ nav a {
       width: 21.875rem;
   }
 
+/*-----------------------------------------------------footer */
+
+  footer {
+      height: 3rem;
+  }
+
+/*----------------------------------------------------website credit */
+
+  #websitecredit {
+      color: #d0a88a;
+      font-size: 0.9rem;
+      padding-bottom: 0.6rem;
+  }
+
   /*-----------------------------media queries */
 
   @media only screen and (min-width: 601px) {
