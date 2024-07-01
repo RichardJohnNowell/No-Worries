@@ -38,7 +38,7 @@ nav a {
   }
   
   nav ul {
-    border-color: #344d99;
+    border-color: #f1e696;
     border-style: solid;
     border-radius: 10px;
     list-style: none;
@@ -135,4 +135,22 @@ nav a {
       width: 21.875rem;
   }
 
-  /*----------------------------- */
+  /*-----------------------------media queries */
+
+  @media only screen and (min-width: 601px) {
+    #topline {
+        width: 100%;
+    }
+  }
+  
+  @media only screen and (min-width: 37.5625rem) {
+    nav ul {
+        width: 58%;
+    }
+  }
+  
+  @media only screen and (min-width: 37.5625rem) {
+    p {
+        width: 58%;
+    }
+  }
