@@ -2,10 +2,10 @@
 /*-------------------------------------------------------start */
 
 body {
-  background-color: #2f5775;
-  color: #f1e696;
-  font-family: Poppins, serif;
-  font-size: 1.3rem;
+   background-color: #2f5775;
+   color: #f1e696;
+   font-family: Poppins, serif;
+   font-size: 1.3rem;
 }
   
   p {
@@ -17,7 +17,7 @@ body {
   /* ----------------------------------------header */
 
 nav a {
-    color: #3c5ab2;
+    color: #f1e696;
     display: block;
     text-decoration: none;
   }
@@ -49,7 +49,7 @@ nav a {
   }
   
   #topline {
-    color: #0b48ff;
+    color: #f1e696;
     letter-spacing: 1px;
     font-weight: 600;
   }
@@ -72,11 +72,6 @@ nav a {
 
   #full-Stack-min {
       height: 54.375rem;
-      width: 21.875rem;
-  }
-
-  #no-Worries-background-min {
-      height: 51.5625rem;
       width: 21.875rem;
   }
 
