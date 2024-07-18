@@ -141,6 +141,15 @@ nav a {
       height: 3rem;
   }
 
+/*-----------------------------------------------------jotform */
+
+#JotFormIFrame-231864072231349 {
+  border: none;
+  height: 33.6875rem;
+  max-width: 100%;
+  min-width: 100%;
+}
+
 /*----------------------------------------------------website credit */
 
   #websitecredit {
