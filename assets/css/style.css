@@ -141,6 +141,20 @@ nav a {
       height: 3rem;
   }
 
+/* ----------------------------------------flexbox */
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-container > div {
+  margin: 0.4rem;
+  padding: 1.2rem;
+}
+
 /*-----------------------------------------------------jotform */
 
 #JotFormIFrame-231864072231349 {
