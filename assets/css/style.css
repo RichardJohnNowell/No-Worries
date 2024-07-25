@@ -1,4 +1,4 @@
-/*  no worries stylesheet  */
+/*--------------------------------------no worries stylesheet  */
 /*-------------------------------------------------------start */
 
 body {
@@ -39,8 +39,8 @@ nav a {
   
   nav ul {
     border-color: #f1e696;
-    border-style: solid;
     border-radius: 10px;
+    border-style: solid;
     list-style: none;
     margin: auto;
     padding-right: 2.2rem;
@@ -49,8 +49,8 @@ nav a {
   
   #topline {
     color: #f1e696;
-    letter-spacing: 1px;
     font-weight: 600;
+    letter-spacing: 1px;
   }
 
 /*----------------------------------------------------flexibles */
