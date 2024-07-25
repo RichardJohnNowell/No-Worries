@@ -2,179 +2,179 @@
 /*-------------------------------------------------------start */
 
 body {
-   background-color: #2f5775;
-   color: #f1e696;
-   font-family: Poppins, serif;
-   font-size: 1.3rem;
+  background-color: #2f5775;
+  color: #f1e696;
+  font-family: Poppins, serif;
+  font-size: 1.3rem;
 }
-  
-  p {
-    margin: auto;
-    text-align: center;
-    width: 88%;
-  }
 
-  /*------------------------------------------------------header */
+p {
+  margin: auto;
+  text-align: center;
+  width: 88%;
+}
+
+/*------------------------------------------------------header */
 
 nav a {
-    color: #f1e696;
-    display: block;
-    text-decoration: none;
-  }
-  
-  nav a:hover {
-    background-color: #5781ff;
-    border-radius: 4px;
-    color: #e5ff57;
-  }
-  
-  nav li {
-    display: inline-block;
-    font-size: 1.3rem;
-    font-weight: 500;
-    height: 40px;
-    line-height: 40px;
-    margin-left: 7px;
-  }
-  
-  nav ul {
-    border-color: #f1e696;
-    border-radius: 10px;
-    border-style: solid;
-    list-style: none;
-    margin: auto;
-    padding-right: 2.2rem;
-    text-align: center;
-  }
-  
-  #topline {
-    color: #f1e696;
-    font-weight: 600;
-    letter-spacing: 1px;
-  }
+  color: #f1e696;
+  display: block;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #5781ff;
+  border-radius: 4px;
+  color: #e5ff57;
+}
+
+nav li {
+  display: inline-block;
+  font-size: 1.3rem;
+  font-weight: 500;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 7px;
+}
+
+nav ul {
+  border-color: #f1e696;
+  border-radius: 10px;
+  border-style: solid;
+  list-style: none;
+  margin: auto;
+  padding-right: 2.2rem;
+  text-align: center;
+}
+
+#topline {
+  color: #f1e696;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
 
 /*----------------------------------------------------flexibles */
 
 .flex-container {
-    align-items: center;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-  }
-  
-  .flex-container > div {
-    margin: 0.4rem;
-    padding: 1.2rem;
-  }
-  
-  /*---------------------------------------------------sizings */
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
 
-  #full-Stack-min {
-      height: 54.375rem;
-      width: 21.875rem;
-  }
+.flex-container > div {
+  margin: 0.4rem;
+  padding: 1.2rem;
+}
 
-  #no-worries-logo {
-      height: 14.375rem;
-      width: 21.875rem;
-  }
+/*---------------------------------------------------sizings */
 
-  #phonic-back-min {
-      height: 12.1875rem;
-      width: 21.875rem;
-  }
+#full-Stack-min {
+  height: 54.375rem;
+  width: 21.875rem;
+}
 
-  #phonic-front-min {
-      height: 12.125rem;
-      width: 21.875rem;
-  }
+#no-worries-logo {
+  height: 14.375rem;
+  width: 21.875rem;
+}
 
-  #phonic-front-left-min {
-      height: 12.5rem;
-      width: 21.875rem;
-  } 
+#phonic-back-min {
+  height: 12.1875rem;
+  width: 21.875rem;
+}
 
-  #phonic-front-right-min {
-      height: 11.0625rem;
-      width: 21.875rem;
-  }
+#phonic-front-min {
+  height: 12.125rem;
+  width: 21.875rem;
+}
 
-  #phonic-inputs-min {
-      height: 11.5rem;
-      width: 21.875rem;
-  }
+#phonic-front-left-min {
+  height: 12.5rem;
+  width: 21.875rem;
+}
 
-  #soundcraft-back-min {
-      height: 9.5rem;
-      width: 21.875rem;
-  }
+#phonic-front-right-min {
+  height: 11.0625rem;
+  width: 21.875rem;
+}
 
-  #soundcraft-eq-min {
-      height: ;
-      width: 21.875rem;
-  }
+#phonic-inputs-min {
+  height: 11.5rem;
+  width: 21.875rem;
+}
 
-  #soundcraft-front-min {
-      height: 12.1875rem;
-      width: 21.875rem;
-  }
+#soundcraft-back-min {
+  height: 9.5rem;
+  width: 21.875rem;
+}
 
-  #soundcraft-front-2-min {
-      height: 15.625rem;
-      width: 21.875rem;
-  }
+#soundcraft-eq-min {
+  height: ;
+  width: 21.875rem;
+}
 
-  #toa-back-min {
-      height: 27.875rem;
-      width: 21.875rem;
-  }
+#soundcraft-front-min {
+  height: 12.1875rem;
+  width: 21.875rem;
+}
 
-  #toa-front-min {
-      height:  28.9375rem;
-      width: 21.875rem;
-  }
+#soundcraft-front-2-min {
+  height: 15.625rem;
+  width: 21.875rem;
+}
+
+#toa-back-min {
+  height: 27.875rem;
+  width: 21.875rem;
+}
+
+#toa-front-min {
+  height: 28.9375rem;
+  width: 21.875rem;
+}
 
 /*-----------------------------------------------------footer */
 
-  footer {
-      height: 3rem;
-  }
+footer {
+  height: 3rem;
+}
 
 /*-------------------------------------------------------website credit */
 
-  #websitecredit {
-      color: #d0a88a;
-      font-size: 0.9rem;
-      padding-bottom: 0.6rem;
-  }
+#websitecredit {
+  color: #d0a88a;
+  font-size: 0.9rem;
+  padding-bottom: 0.6rem;
+}
 
-  /*-----------------------------------------------------jotform */
+/*-----------------------------------------------------jotform */
 
-  #JotFormIFrame-231864072231349 {
-      border: none;
-      height: 33.6875rem;
-      max-width: 100%;
-      min-width: 100%;
-  }
+#JotFormIFrame-231864072231349 {
+  border: none;
+  height: 33.6875rem;
+  max-width: 100%;
+  min-width: 100%;
+}
 
-  /*--------------------------------------------------media queries */
+/*--------------------------------------------------media queries */
 
-  @media only screen and (min-width: 601px) {
-    #topline {
-        width: 100%;
-    }
+@media only screen and (min-width: 601px) {
+  #topline {
+      width: 100%;
   }
-  
-  @media only screen and (min-width: 37.5625rem) {
-    nav ul {
-        width: 58%;
-    }
-  }
-  
-  @media only screen and (min-width: 37.5625rem) {
-    p {
-        width: 58%;
-    }
-  }
+}
 
-  /*----end */
+@media only screen and (min-width: 37.5625rem) {
+  nav ul {
+      width: 58%;
+  }
+}
+
+@media only screen and (min-width: 37.5625rem) {
+  p {
+      width: 58%;
+  }
+}
+
+/*----end */
