@@ -10,7 +10,7 @@ Our name No Worries comes from the business concept that we we will turn up with
 <br>
 <br>
 <div align="center">
-    <a href="https://github.com/RichardJohnNowell/No-Worries/blob/main/assets/img/No-Worries.png?raw=true">
-        <img src="https://github.com/RichardJohnNowell/No-Worries/blob/main/assets/img/No-Worries.png?raw=true" width="350" height="230" id="No-Worries" title="No-Worries" alt="No-Worries">
+    <a href="https://github.com/RichardJohnNowell/No-Worries/blob/main/assets/img/No-Worries-nu-logo1.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/No-Worries/blob/main/assets/img/No-Worries-nu-logo1.jpg?raw=true" width="350" height="160" id="No-Worries" title="No-Worries" alt="No-Worries">
     </a>
 </div>
