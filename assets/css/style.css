@@ -104,6 +104,11 @@ nav ul {
   width: 21.875rem;
 }
 
+#phonic-front-scaled-min {
+  height: 12.125rem;
+  width: 21.875rem;
+}
+
 #phonic-front-left-min {
   height: 12.5rem;
   width: 21.875rem;
@@ -128,6 +133,11 @@ nav ul {
   height: 12.1875rem;
   width: 21.875rem;
 }
+
+#soundcraft-front-scaled-min {
+  height: 10.5rem;
+  width: 21.875rem;
+}  
 
 #soundcraft-front-min {
   height: 10.438rem;
