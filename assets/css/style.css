@@ -53,6 +53,12 @@ nav ul {
   letter-spacing: 1px;
 }
 
+/*----------------------------------------------------headings */
+
+#powpod-1 {
+  text-align: center;
+}
+
 /*----------------------------------------------------flexibles */
 
 .flex-container {
